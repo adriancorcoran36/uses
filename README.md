@@ -1,2 +1,3 @@
-# uses
-Default Settings and Extensions
+# Uses
+
+Default Settings and Extensions for all Projects
