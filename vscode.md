@@ -1,6 +1,6 @@
-#Default Settings and Extensions for VSCode
+# Default Settings and Extensions for VSCode
 
-##Settings
+## Settings
 
 ```
 {
@@ -26,54 +26,44 @@
 }
 ```
 
-##Extensions
+## Extensions
 
-Babel ES6/ES7
+### Babel ES6/ES7
 
-> dzannotti.vscode-babel-coloring
-> dzannotti
+dzannotti.vscode-babel-coloring - _dzannotti_
 
-Cobalt2 Theme Official
+### Cobalt2 Theme Official
 
-> wesbos.theme-cobalt2
-> Wes Bos
+wesbos.theme-cobalt2 - _Wes Bos_
 
-DotENV
+### DotENV
 
-> mikestead.dotenv
-> mikestead
+mikestead.dotenv - _mikestead_
 
-Duplicate action
+### Duplicate action
 
-> mrmlnc.vscode-duplicate
-> mrmlnc
+mrmlnc.vscode-duplicate - _mrmlnc_
 
-Duplicate selection or line
+### Duplicate selection or line
 
-> geeebe.duplicate
-> Greg Bacchus
+geeebe.duplicate - _Greg Bacchus_
 
-JavaScript (ES6) code snippets
+### JavaScript (ES6) code snippets
 
-> xabikos.javascriptsnippets
-> charalampos karypidis
+xabikos.javascriptsnippets - _charalampos karypidis_
 
-Liquid Languages Support
+### Liquid Languages Support
 
-> neilding.language-liquid
-> Neil Ding
+neilding.language-liquid - _Neil Ding_
 
-Prettier - Code formatter
+### Prettier - Code formatter
 
-> esbenp.prettier-vscode
-> Esben Petersen
+esbenp.prettier-vscode - _Esben Petersen_
 
-Shopify Liquid Template Snippets
+### Shopify Liquid Template Snippets
 
-> killalau.vscode-liquid-snippets
-> Franky Lau
+killalau.vscode-liquid-snippets - _Franky Lau_
 
-PHP IntelliSense
+### PHP IntelliSense
 
-> felixfbecker.php-intellisense
-> Felix Becker
+felixfbecker.php-intellisense - _Felix Becker_
